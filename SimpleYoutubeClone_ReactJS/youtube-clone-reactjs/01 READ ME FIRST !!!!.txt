@@ -1,0 +1,9 @@
+SIMPLE YOUTUBE CLONE IN REACTJS
+
+
+Requirements: npm, Youtube API
+
+How To Run?
+- npm install (to install all dependencies)
+- npm start (to run application)
+
